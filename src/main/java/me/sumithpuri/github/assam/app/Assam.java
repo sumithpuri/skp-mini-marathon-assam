@@ -45,12 +45,12 @@ public class Assam {
 		System.out.println("[Developer Notes]     [01] Use Java Version 9.0+ Compiler");
 		System.out.println();
 		
-		System.out.println("Basic/DI Example of Spring with Bean Factory");
-		System.out.println("--------------------------------------------");
+		System.out.println("Example of Spring Basic/DI using Bean Factory");
+		System.out.println("---------------------------------------------");
 		SpringMainApp.demoCoreSpringBasicDI();
 		System.out.println();
-		System.out.println("Basic/DI Example of Spring with Application Context");
-		System.out.println("---------------------------------------------------");
+		System.out.println("Example of Spring Basic/DI using Application Context");
+		System.out.println("----------------------------------------------------");
 
 		KnightApp.demoCoreSpringBasicDI();
 	}
